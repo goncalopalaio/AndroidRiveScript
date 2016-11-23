@@ -1,0 +1,3 @@
+[submodule "app/src/main/java/com/rivescript"]
+	path = app/src/main/java/com/rivescript
+	url = https://github.com/goncalopalaio/rivescript-java

@@ -1,0 +1,13 @@
+! version = 2.0
+
++ hello
+- Hi
+- Hello!
+- Howdy
+
++ hello *
+- Hello human.
+- Hello! <star1> you say?
+
++ *
+- If you are talking about <star1>, I don't know about that.
